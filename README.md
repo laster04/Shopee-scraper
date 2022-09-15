@@ -63,23 +63,31 @@ The actor optimized to run blazing fast and scrape many as products as possible.
     ]
   },
   "price": {
-    "price": 2000000000,
-    "price_before_discount": 2000000000,
-    "price_max": 8500000000,
-    "price_max_before_discount": 13000000000,
-    "price_min": 2000000000,
-    "price_min_before_discount": 2000000000,
-    "raw_discount": 50,
-    "discount": "50%",
-    "discount_stock": 3997,
-    "product_sold": 1193
+    "price": 20000,
+    "price_before_discount": 0,
+    "price_max": 130000,
+    "price_max_before_discount": -0.00001,
+    "price_min": 20000,
+    "price_min_before_discount": -0.00001,
+    "raw_discount": 0,
+    "discount": null,
+    "discount_stock": 0,
+    "product_sold": 1221
   },
   "shop": {
     "shop_location": "KAB. PEKALONGAN",
     "shopid": 354620922,
     "item_sold": 29,
     "item_stock": 4669
-  }
+  },
+  "images": [
+    "https://cf.shopee.com.my/file/613bec5a4ed65dc8533794bf931d0154",
+    "https://cf.shopee.com.my/file/5393cc0d15f840d6cd267fd837bef621",
+    "https://cf.shopee.com.my/file/f4d4df22d5da6ef01e529c246408c829",
+    "https://cf.shopee.com.my/file/fd216f419b96345bdb3e5f99a61b1119",
+    "https://cf.shopee.com.my/file/92beccca5067881e7785fadcd21e9a59",
+    "https://cf.shopee.com.my/file/21eaf90b9816c328d23a7711a01a07a4"
+  ]
 }
 ```
 
